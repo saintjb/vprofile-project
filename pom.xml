@@ -146,13 +146,13 @@
 	            <artifactId>amqp-client</artifactId>
 	            <version>4.0.2</version>
 	   </dependency>
-	   <dependencies>
-             <dependency>
+	   
+           <dependency>
              <groupId>org.junit.jupiter</groupId>
              <artifactId>junit-jupiter-engine</artifactId>
              <version>5.5.2</version>
-            </dependency>
-           </dependencies>
+           </dependency>
+           
 	   <!-- Elasticsearch Dependency-->
 		<dependency>
 		    <groupId>org.elasticsearch</groupId>
